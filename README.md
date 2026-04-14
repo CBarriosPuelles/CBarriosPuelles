@@ -7,8 +7,8 @@
 📚 Aprendiendo constantemente nuevas tecnologías
 ⚡ Apasionado por el desarrollo web
 
-🛠️ Tecnologías
-🌐 Front-End  
+🛠️ Tecnologías<br>
+🌐 Front-End<br>
 <p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,vue" /> </p>
 ⚙️ Back-End
 <p> <img src="https://skillicons.dev/icons?i=python,django,cs" /> </p>
