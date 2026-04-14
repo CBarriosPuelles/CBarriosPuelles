@@ -1,5 +1,5 @@
 <!-- HEADER ANIMADO -->
-<h1 align="center">🌑 Hola, soy TU NOMBRE</h1>
+<h1 align="center">🌑 Hola, soy Carlos Rodrigo Barrios Puelles</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=Desarrollador+Front-End;Amante+del+código+limpio;Diseño+moderno+y+elegante;Siempre+aprendiendo+nuevas+tecnologías">
@@ -60,7 +60,7 @@
 
 ## 📫 Contacto
 <p align="center">
-  <a href="mailto:tu@email.com">
+  <a href="mailto:cbarriospuelles@email.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/tuusuario">
